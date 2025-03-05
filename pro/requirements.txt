@@ -4,3 +4,4 @@ ortools
 pandas
 werkzeug
 openpyxl
+waitress
